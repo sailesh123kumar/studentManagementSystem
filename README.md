@@ -54,4 +54,4 @@ A **Java-based console application** for managing students, including enrollment
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/sailesh123kumar/studentManagementSystem.git
